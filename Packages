@@ -1,1 +1,21 @@
+Package: com.ifilipis.fckzck
+Name: FckZck
+Author: ifilipis
+Version: 1.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: A tweak that kills forced updates from WhatsApp completely
+Maintainer: Xirion-d0t
+Filename: debs/com.ifilipis.fckzck_1.0.3_iphoneos-arm.deb
+Size: 10274
 
+Package: com.mhsternice.wasendfix
+Name: WASendFix
+Author: mhsternice
+Version: 0.0.4
+Architecture: iphoneos-arm
+Description: Additional WhatsApp compatibility fix.
+Maintainer: Xirion-d0t
+Filename: debs/com.mhsternice.wasendfix_0.0.4_iphoneos-arm.deb
+Section: Tweaks
+Size: 12432
